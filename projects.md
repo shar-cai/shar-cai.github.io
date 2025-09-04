@@ -29,13 +29,13 @@ We validated the integrated system on the bench, in **3D-printed sinus phantoms*
 I led a **Fault Tree Analysis (FTA)** to identify health and safety risks across implementation, prototyping, validation, manufacturing, and deployment. Using a top-down approach aligned with **ISO 14971:2019**, I defined intended use and reasonably foreseeable misuse, identified hazards (thermal exposure, unintended motion, electrical faults, magnetic interference), traced root causes (driver failures, timing issues, mechanical jams), and proposed controls (current limits, interlocks, watchdogs, clear UI states, labeling, and verification tests). We aimed to identify critical hazards as early as possible and either eliminate them or implement safeguards before they could affect users.
 
 ### Impact (why this matters)
-A softer, magnetically steered tool can reach where rigid tools struggle, **reducing invasiveness**, instrument swaps, and potentially procedure time—benefits that can cascade into **faster recovery** and fewer complications for patients, and efficiency gains for providers.
+A softer, magnetically steered tool can reach where rigid tools struggle, <mark>reducing invasiveness</mark>, instrument swaps, and potentially procedure time. These benefits can then cascade into <span style="color:#63b3ed">faster recovery<span> and fewer complications for patients, and efficiency gains for providers.
 
 ### Future directions
-- **Specialized end effectors:** graspers for biopsies, a **laser** for polyp removal, a **balloon** for sinus dilation, an onboard **camera** for visualization, and targeted **medication injection**.  
-- **OR integration:** smoother workflows with existing imaging/navigation, plus exploration of semi-autonomous or closed-loop steering.
+- **Specialized end effectors:** graspers for biopsies, a laser for polyp removal, a balloon for sinus dilation, an onboard camera for visualization, and targeted medication injection.  
+- **OR integration:** smoother workflows with existing imaging/navigation, potential exploration of semi-autonomous or closed-loop steering.
 
-###Gallery
+### Gallery
 <p align="center">
   <img src="/assets/img/capstoneposter.jpg" alt="Image of SCai Capstone Poster" width="300"/>
   <img src="/assets/img/capstonepamphlet.jpg" alt="Image of SCai Capstone Pamphlet" width="300"/>

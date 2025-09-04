@@ -15,7 +15,9 @@ We set out to build a magnetically steered soft-continuum robot. The objective w
 > **Need Statement**  
 > Design a magnetically actuated continuum robot for use in ENT surgery, enhancing dexterity in navigating complex and confined anatomical spaces while remaining less invasive than current tools.
 <br>
-
+<p align="center">
+  <img src="/assets/img/capstonepamphlet.png" alt="Image of SCai Capstone Pamphlet" width="250"/>
+</p>
 ### How it works
 This platform brings together four subsystems that operate as one:
 - **Soft robot body.** The body was cast in medical-grade silicone and reinforced with a nitinol wire backbone for resilience and shape support. The tip was magnetized by embedding NdFeB particles and aligning their magnetization along the robot’s axis so external fields can produce a steering torque.
@@ -37,8 +39,8 @@ A softer, magnetically steered tool can reach where rigid tools struggle, <span 
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="300"/>
-  <img src="/assets/img/capstonepamphlet.png" alt="Image of SCai Capstone Pamphlet" width="300"/>
+  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="600"/>
+  
 </p>
 
 --- <br>

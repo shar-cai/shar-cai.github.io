@@ -36,7 +36,10 @@ A softer, magnetically steered tool can reach where rigid tools struggle, **redu
 - **OR integration:** smoother workflows with existing imaging/navigation, plus exploration of semi-autonomous or closed-loop steering.
 
 ###Gallery
-
+<p align="center">
+  <img src="/assets/img/capstoneposter.jpg" alt="Image of SCai Capstone Poster" width="300"/>
+  <img src="/assets/img/capstonepamphlet.jpg" alt="Image of SCai Capstone Pamphlet" width="300"/>
+</p>
 
 --- <br>
 

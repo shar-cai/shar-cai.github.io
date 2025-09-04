@@ -17,7 +17,7 @@ My current focus and skills:
 - **Interests:** embedded systems, real‑time control, biomedical robotics, computer vision, and UI/UX.
 - **Toolbox:** Python, C/C++, TypeScript/JS, SQL, React, MATLAB, Simulink, Solidworks, CATIA, Wireshark, Linux, Git
 - **Currently:** Applying to full‑time roles and working on fun side projects!
-- **Hobbies:** watercolour painting, baking, co-op video games, rock climbing (a 
+- **Hobbies:** watercolour painting, baking, co-op video games, rock climbing (bouldering + toprope)
 
 ### Contact
 - Email: [sharoncai1231@gmail.com](sharoncai1231@gmail.com)

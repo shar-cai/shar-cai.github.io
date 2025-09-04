@@ -7,7 +7,7 @@ permalink: /projects/
 Below are a few projects I’ve worked on.
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
-> Soft robotics, mechatronics systems, Python, GUI
+> Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
 
 ### Why build this?
 Ear, nose, and throat (ENT) surgery often means working inside exceptionally narrow, twisty passages where rigid tools can struggle to maneuver without damaging surrounding tissue. Using current ENT surgical tools often requires multiple personnel involvement and repeated tool swapping. And in some cases, surgeons must enlarge pathways by removing bone to reach a target or gain vision in an area. After speaking with sinus surgeons and researching current techniques, it was clear there was room for a gentler, more dexterous approach that could navigate tight anatomy without adding trauma.
@@ -60,7 +60,7 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 --- <br>
 
 ## Interview Buddy {#interview-buddy}
-> Fullstack, Python, Django, OpenCV, JavaScript, jQuery AJAX, RESTful API, ML, NLP
+> Full-stack, Python, Django, Javascript, Bootstrap, MediaRecorder API, jQuery AJAX, REST API, OpenCV, ML, NLP
 
 ### Why build this?
 Interviews can be stressful, especially when you’re a student who isn't sure how you’re coming across on camera or whether your answer actually hits what employers look for. I wanted a low-friction way to practice: generate a question, record a response, and get concrete feedback I could act on. That turned into *Interview Buddy*, a browser-based coach that helps students and early-career folks build confidence with fast, focused insights.
@@ -76,7 +76,11 @@ On the web app, you can generate categorized questions, record a video answer, a
 - **Scoring and report delivery:** Django aggregates the three streams into a normalized scorecard with concise narrative feedback, returns a structured JSON response, and the browser renders the report with a direct download link for the recording.
 
 ### Gallery
-
+<p align="center">
+  <img src="/assets/img/buddydeck.jpeg" alt="Interview Buddy webpage Interview Deck" width="280">
+  <img src="/assets/img/buddyrecord.jpeg" alt="Interview Buddy webpage Recording screen" width="280">
+  <img src="/assets/img/buddyresult.jpeg" alt="Interview Buddy webpage Scored report" width="280">
+</p>
 
 --- <br>
 

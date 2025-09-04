@@ -43,8 +43,9 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="800"/>   
-<br> 
+  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="800"/>
+</p>
+<br> <br>
 <div class="video-embed" align="center">
   <iframe
     src="https://www.youtube-nocookie.com/embed/go0St8KmVCU?rel=0&modestbranding=1&playsinline=1"
@@ -55,7 +56,6 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
     allowfullscreen
   ></iframe>
 </div>
-</p>
 
 --- <br>
 

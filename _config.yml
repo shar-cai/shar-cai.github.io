@@ -1,11 +1,12 @@
-title: 
-description: Sharon Cai's Porfolio
+title: Sharon Cai's Portfolio
+description: A little insight into me and my projects!
 theme: minima
+
 # Show Projects and About in the top nav
 header_pages:
   - projects.md
   - about.md
-# Optional social links (edit or remove)
+
 minima:
   skin: dark
   social_links:

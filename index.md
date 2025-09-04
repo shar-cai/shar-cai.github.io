@@ -3,7 +3,7 @@ layout: home
 title: Hi, I'm Sharon 👋🦈
 ---
 
-Welcome to my mini portfolio. I build things that are a mix of **software**, **hardware**, and a dash of **mechanical design**, with a pinch of sugar, spice, and everything nice.
+Welcome to my mini portfolio. I build things that are a mix of **software**, **hardware**, and a dash of **mechanical design**, with a pinch of sugar, spice, and everything nice!
 
 - See my **[Projects](/projects)** for pictures and notes.
 - Learn more **[About Me](/about)**.

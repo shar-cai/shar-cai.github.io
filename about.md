@@ -20,7 +20,7 @@ My current focus and skills:
 - **Hobbies:** watercolour painting, co-op video games, rock climbing (mainly bouldering, but I love a good outdoor top rope climb)
 
 ### Contact
-- Email: sharoncai1231@gmail.com 
+- Email: [sharoncai1231@gmail.com](sharoncai1231@gmail.com)
 - GitHub: [shar-cai](https://github.com/shar-cai)  
 - LinkedIn: [/in/cai-s](https://www.linkedin.com/in/cai-s/)
 

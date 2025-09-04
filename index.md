@@ -3,17 +3,16 @@ layout: home
 title: Home
 ---
 
-# Hi, I'm Shar 👋
+# Hi, I'm Sharon 👋🦈
 
-Welcome to my little corner of the internet. I build things across embedded systems, software, and ML.
+Welcome to my mini portfolio. I build things that are a mix of **software**, **hardware**, and a dash of **mechanical design**, with a pinch of sugar, spice, and everything nice.
 
-- See my **[Projects](/projects)** for demos and notes.
+- See my **[Projects](/projects)** for pictures and notes.
 - Learn more **[About Me](/about)**.
 
-If you're in a hurry, here are a few highlights:
+Highlights:
 
-- **Protect: An Active Gaming Experience** — Arcade-style interactive wall + ball launcher prototype (Raspberry Pi network, PyGame, JSON-configurable game modes).
-- **Interview Buddy** — Web app that analyzes recorded interview answers with CV/NLP pipelines.
-- **Mastermordle** — Word game with a Mastermind-style feedback twist (Node + TS).
+- [**Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery**](/projects#capstone) — a soft continuum robot for enhanced dexterity in navigating complex/confined anatomical spaces with minimized invasiveness during ENT surgery.
+- [**Interview Buddy**](/projects#interview-buddy) — Web app that records responses to randomized interview questions and uses machine learning and computer vision to analyze eye contact, tone, speech patterns, and answer quality, returning a scored report with actionable feedback.
 
-> This site is powered by GitHub Pages and Markdown. Easy to edit, minimal to maintain.
+> Thanks for stopping by!

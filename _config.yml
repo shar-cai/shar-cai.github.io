@@ -1,5 +1,5 @@
-title: Shar K Portfolio
-description: Projects and bio
+title: Sharon Cai Portfolio
+description: Projects and Bio
 theme: minima
 # Show Projects and About in the top nav
 header_pages:
@@ -8,5 +8,5 @@ header_pages:
 # Optional social links (edit or remove)
 minima:
   social_links:
-    - { platform: github,         user_url: "https://github.com/YOUR-USERNAME" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN/" }
+    - { platform: github,         user_url: "https://github.com/shar-cai" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/cai-s/" }

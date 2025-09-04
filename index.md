@@ -7,7 +7,7 @@ Welcome to my mini portfolio. I build things that are a mix of **software**, **h
 
 - See my **[Projects](/projects)** for pictures and notes.
 - Learn more **[About Me](/about)**.
-- My resume: [Download my resume (PDF)](/assets/files/Sharon_Cai_Resume.pdf)
+- My resume: [Resume (PDF)](/assets/files/Sharon_Cai_Resume.pdf)
 
 Highlights:
 - [Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery](/projects/#capstone) -- a soft continuum robot for enhanced dexterity in navigating complex/confined anatomical spaces with minimized invasiveness during ENT surgery.

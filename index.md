@@ -17,4 +17,6 @@ Highlights:
 - [**Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery**](/projects#capstone) — a soft continuum robot for enhanced dexterity in navigating complex/confined anatomical spaces with minimized invasiveness during ENT surgery.
 - [**Interview Buddy**](/projects#interview-buddy) — web app that records responses to randomized interview questions and uses machine learning and computer vision to analyze eye contact, tone, speech patterns, and answer quality, returning a scored report with actionable feedback.
 
+<br>
+
 > Thanks for stopping by!

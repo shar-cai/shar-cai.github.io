@@ -7,7 +7,7 @@ permalink: /projects/
 Below are a few projects I’ve worked on.
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
-> Soft robotics, mechatronics systems,
+> Soft robotics, mechatronics systems, Python, GUI
 
 ### Why build this?
 Ear, nose, and throat (ENT) surgery often means working inside exceptionally narrow, twisty passages where rigid tools can struggle to maneuver without damaging surrounding tissue. Using current ENT surgical tools often requires multiple personnel involvement and repeated tool swapping. And in some cases, surgeons must enlarge pathways by removing bone to reach a target or gain vision in an area. After speaking with sinus surgeons and researching current techniques, it was clear there was room for a gentler, more dexterous approach that could navigate tight anatomy without adding trauma.
@@ -42,10 +42,6 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 - **OR integration:** smoother workflows with existing imaging/navigation, potential exploration of semi-autonomous or closed-loop steering.
 
 ### Gallery
-<p align="center">
-  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="800"/>
-</p>
-<br> <br>
 <div class="video-embed" align="center">
   <iframe
     src="https://www.youtube-nocookie.com/embed/go0St8KmVCU?rel=0&modestbranding=1&playsinline=1"
@@ -56,6 +52,10 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
     allowfullscreen
   ></iframe>
 </div>
+<br> <br>
+<p align="center">
+  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="800"/>
+</p>
 
 --- <br>
 
@@ -74,6 +74,8 @@ On the web app, you can generate categorized questions, record a video answer, a
   - **Audio:** demux to .wav and extract features such as speaking rate, pause ratio/duration, articulation/energy proxies, and overall mood indicators.
   - **Speech/Text:** transcribe with Google Cloud Speech-to-Text, vectorize transcript and reference answers with TF-IDF, and compute cosine similarity to score content alignment; surface strong terms already present and suggest missing keywords.
 - **Scoring and report delivery:** Django aggregates the three streams into a normalized scorecard with concise narrative feedback, returns a structured JSON response, and the browser renders the report with a direct download link for the recording.
+
+### Gallery
 
 
 --- <br>

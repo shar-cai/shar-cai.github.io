@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-**About Me**
 
 Hi, my name is Sharon (Shar) Cai, and I recently graduated from McMaster University with a degree in Mechatronics Engineering and Biomedical Engineering (B.Eng.BME).
 
@@ -24,6 +23,8 @@ My current focus and skills:
 - Email: sharoncai1231@gmail.com 
 - GitHub: [shar-cai](https://github.com/shar-cai)  
 - LinkedIn: [/in/cai-s](https://www.linkedin.com/in/cai-s/)
+
+
 
 <p align="center">
   <img src="/assets/img/sharclimb.jpg" alt="Photo of Shar climbing in Squamish, BC" width="300"/>

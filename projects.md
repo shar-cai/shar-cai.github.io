@@ -93,5 +93,5 @@ Mastermordle is a Wordle-meets-Mastermind word game. The backend checks each gue
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/mastermordle.png" alt="Mastermordle webpage game" width="280">
+  <img src="/assets/img/mastermordle.png" alt="Mastermordle webpage game" width="350">
 </p>

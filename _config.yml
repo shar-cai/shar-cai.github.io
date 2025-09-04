@@ -1,5 +1,5 @@
-title: Sharon Cai's Portfolio
-description: A little insight into me and my projects!
+title: "Sharon Cai's Portfolio"
+description: "A little insight into me and my projects!"
 theme: minima
 
 # Show Projects and About in the top nav
@@ -13,6 +13,3 @@ minima:
 github_username: shar-cai
 linkedin_username: cai-s
 
-.site-footer .footer-col-1 .site-title {
-  display: none;
-}

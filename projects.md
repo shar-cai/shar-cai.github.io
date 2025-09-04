@@ -16,8 +16,8 @@ We set out to build a magnetically steered soft-continuum robot. The objective w
 > Design a magnetically actuated continuum robot for use in ENT surgery, enhancing dexterity in navigating complex and confined anatomical spaces while remaining less invasive than current tools.
 <br>
 <p align="center">
-  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="240"/>
-  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="260"/>
+  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="290"/>
+  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="270"/>
 </p>
 
 ### How it works
@@ -41,8 +41,8 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="880"/> <br>  
-</p>
+  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="850"/> <br>  
+
 <div class="video-embed">
   <iframe
     src="https://www.youtube-nocookie.com/embed/go0St8KmVCU?rel=0&modestbranding=1&playsinline=1"
@@ -53,6 +53,7 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
     allowfullscreen
   ></iframe>
 </div>
+</p>
 
 --- <br>
 

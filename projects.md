@@ -77,9 +77,9 @@ On the web app, you can generate categorized questions, record a video answer, a
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="280">
-  <img src="/assets/img/buddyrecord.jpg" alt="Interview Buddy webpage Recording screen" width="280">
-  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="280">
+  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="300">
+  <img src="/assets/img/buddyrecord.jpg" alt="Interview Buddy webpage Recording screen" width="320">
+  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="330">
 </p>
 
 --- <br>
@@ -93,5 +93,5 @@ Mastermordle is a Wordle-meets-Mastermind word game. The backend checks each gue
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/mastermordle.jpg" alt="Mastermordle webpage game" width="280">
+  <img src="/assets/img/mastermordle.png" alt="Mastermordle webpage game" width="280">
 </p>

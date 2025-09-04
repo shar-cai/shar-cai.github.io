@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Below are a few projects I’ve worked on.
+Below are a few projects I’ve worked on. :)
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
 > Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
@@ -52,7 +52,7 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
     allowfullscreen
   ></iframe>
 </div>
-<br> <br>
+<br>
 <p align="center">
   <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="800"/>
 </p>
@@ -77,17 +77,21 @@ On the web app, you can generate categorized questions, record a video answer, a
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/buddydeck.jpeg" alt="Interview Buddy webpage Interview Deck" width="280">
-  <img src="/assets/img/buddyrecord.jpeg" alt="Interview Buddy webpage Recording screen" width="280">
-  <img src="/assets/img/buddyresult.jpeg" alt="Interview Buddy webpage Scored report" width="280">
+  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="280">
+  <img src="/assets/img/buddyrecord.jpg" alt="Interview Buddy webpage Recording screen" width="280">
+  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="280">
 </p>
 
 --- <br>
 
 ## Mastermordle (Wordle x Mastermind) 
-- A word puzzle where each guess receives vowel/consonant feedback counts.
-- Renders Wordle‑style tiles plus a feedback table
-- **Tech Stack:** Node.js, TypeScript, React, HTML/CSS
+> Node.js, TypeScript, REST API, HTML/CSS/JS, UI, webdev, games
 
+*Work in progress — gameplay and UI are actively evolving.*
 
+Mastermordle is a Wordle-meets-Mastermind word game. The backend checks each guess and returns structured feedback (vowel/consonant counts for green, yellow, and gray), and the frontend renders Wordle-style tiles plus a compact feedback table. Vowels are shown as circles and consonants as squares for quick visual parsing. The game currently limits players to 7 guesses, then reveals the answer, and I’m iterating on polish, responsiveness, and instructions based on playtesting.
 
+### Gallery
+<p align="center">
+  <img src="/assets/img/mastermordle.jpg" alt="Mastermordle webpage game" width="280">
+</p>

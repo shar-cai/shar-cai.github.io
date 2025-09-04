@@ -19,12 +19,13 @@ My current focus and skills:
 - **Currently:** Applying to full‑time roles and working on fun side projects!
 - **Hobbies:** watercolour painting, baking, co-op video games, rock climbing (bouldering + toprope)
 
+<br>
 ### Contact
 - Email: [sharoncai1231@gmail.com](sharoncai1231@gmail.com)
 - GitHub: [shar-cai](https://github.com/shar-cai)  
 - LinkedIn: [/in/cai-s](https://www.linkedin.com/in/cai-s/)
 
-
+<br>
 
 <p align="center">
   <img src="/assets/img/sharclimb.jpg" alt="Photo of Shar climbing in Squamish, BC" width="300"/>

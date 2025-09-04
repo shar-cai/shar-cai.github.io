@@ -24,3 +24,5 @@ My current focus and skills:
 - Email: sharoncai1231@gmail.com 
 - GitHub: [shar-cai](https://github.com/shar-cai)  
 - LinkedIn: [/in/cai-s](https://www.linkedin.com/in/cai-s/)
+
+![Photo of Shar climbing in Squamish, BC](/assets/img/sharclimb.jpg)

@@ -25,8 +25,6 @@ My current focus and skills:
 - GitHub: [shar-cai](https://github.com/shar-cai)  
 - LinkedIn: [/in/cai-s](https://www.linkedin.com/in/cai-s/)
 
-<br>
-
 <p align="center">
   <img src="/assets/img/sharclimb.jpg" alt="Photo of Shar climbing in Squamish, BC" width="300"/>
 </p>

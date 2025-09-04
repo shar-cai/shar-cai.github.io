@@ -7,6 +7,7 @@ permalink: /projects/
 Below are a few projects I’ve worked on.
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
+> soft robotics, mechatronics systems, 
 ### Why build this?
 Ear, nose, and throat (ENT) surgery often means working inside exceptionally narrow, twisty passages where rigid tools can struggle to maneuver without damaging surrounding tissue. Using current ENT surgical tools often requires multiple personnel involvement and repeated tool swapping. And in some cases, surgeons must enlarge pathways by removing bone to reach a target or gain vision in an area. After speaking with sinus surgeons and researching current techniques, it was clear there was room for a gentler, more dexterous approach that could navigate tight anatomy without adding trauma.
 
@@ -14,10 +15,10 @@ We set out to build a magnetically steered soft-continuum robot. The objective w
 
 > **Need Statement**  
 > Design a magnetically actuated continuum robot for use in ENT surgery, enhancing dexterity in navigating complex and confined anatomical spaces while remaining less invasive than current tools.
-<br>
+
 <p align="center">
-  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="290"/>
-  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="270"/>
+  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="315"/>
+  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="275"/>
 </p>
 
 ### How it works
@@ -41,9 +42,9 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="850"/> <br>  
-
-<div class="video-embed">
+  <img src="/assets/img/capstoneposter.png" alt="Image of SCai Capstone Poster" width="850"/>   
+<br> 
+<div class="video-embed" align="center">
   <iframe
     src="https://www.youtube-nocookie.com/embed/go0St8KmVCU?rel=0&modestbranding=1&playsinline=1"
     title="Capstone demo — Magnetically Actuated Soft-Continuum Robot"
@@ -58,10 +59,19 @@ A softer, magnetically steered tool can reach where rigid tools struggle, reduci
 --- <br>
 
 ## Interview Buddy {#interview-buddy}
-- **What it is:** A browser app that records responses and provides feedback with computer vision and NLP.
-- **My role:** Implemented **Media Capture** on the frontend, a **Django** backend with REST endpoints, and Python pipelines for **speech/text similarity**.
-- **Tech:** HTML/CSS/JS, Django/REST, Python (TF‑IDF, basic CV), Docker (optional).
-- **Links:** [Repo](#) · [Demo](#)
+### Why build this?
+Interviews can be stressful, especially when you’re a student who isn't sure how you’re coming across on camera or whether your answer actually hits what employers look for. I wanted a low-friction way to practice: generate a question, record a response, and get concrete feedback I could act on. That turned into *Interview Buddy*, a browser-based coach that helps students and early-career folks build confidence with fast, focused insights.
+
+### What it does & how it works
+On the web app, you can generate categorized questions, record a video answer, and immediately after, see a scored report with suggestions. 
+
+- **Frontend (HTML/CSS/JS + Bootstrap).** Clean pages, calming color palette, and the **Media Capture & Streams API** to record webcam video. The page sends the captured Blob to the server via **jQuery AJAX**.
+- **Backend (Django + Python).** A pipeline evaluates **video**, **audio**, and **speech/text**:
+  - **Video:** convert `.webm → .mp4`, run **pupil-tracking** to estimate on-camera focus (eye contact vs. off-screen glances).
+  - **Audio:** extract features (speaking rate, pauses, articulation/pronunciation proxies, overall mood).
+  - **Speech/Text:** transcribe with **Google Cloud Speech-to-Text**, then compare the transcript to “employer-approved” answer sets using **TF-IDF + cosine similarity**. We highlight strong terminology and suggest gaps to address next time.
+- The server returns the scores and notes, and the user can **download the video** and **view their report**.
+
 
 --- <br>
 

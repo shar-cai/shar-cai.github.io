@@ -5,6 +5,9 @@ permalink: /projects/
 ---
 
 Below are a few projects I’ve worked on. :)
+- [Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery](/projects/#capstone)
+- [Interview Buddy](/projects/#interview-buddy)
+- [Craniofacial Muscle Stencil CAD](/projects/#craniofacial)
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
 > Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
@@ -83,7 +86,10 @@ On the web app, you can generate categorized questions, record a video answer, a
 </p>
 
 --- <br>
+## Craniofacial Muscle Stencils for Anatomical Learning Model {#craniofacial}
+> CAD, 3D-printing, Fusion 360, Autodesk Inventor, Prusa i3
 
+--- <br>
 ## Mastermordle (Wordle x Mastermind) 
 > Node.js, TypeScript, REST API, HTML/CSS/JS, UI, webdev, games
 

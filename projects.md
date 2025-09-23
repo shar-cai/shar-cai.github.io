@@ -22,8 +22,8 @@ We set out to build a magnetically steered soft-continuum robot. The objective w
 > Design a magnetically actuated continuum robot for use in ENT surgery, enhancing dexterity in navigating complex and confined anatomical spaces while remaining less invasive than current tools.
 
 <p align="center">
-  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="335"/>
-  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="295"/>
+  <img src="/assets/img/capstonesolution1.png" alt="Drawing of Capstone Solution" width="350"/>
+  <img src="/assets/img/capstonesolution2.png" alt="Photo of Capstone Solution on Bench" width="300"/>
 </p>
 
 ### How it works
@@ -81,9 +81,9 @@ On the web app, you can generate categorized questions, record a video answer, a
 
 ### Gallery
 <p align="center">
-  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="300">
+  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="330">
   <img src="/assets/img/buddyrecord.jpg" alt="Interview Buddy webpage Recording screen" width="320">
-  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="330">
+  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="345">
 </p>
 
 --- <br>
@@ -97,18 +97,18 @@ As part of my extracurricular involvement with *Medical Makers*, a non-profit he
 - Applied CAD/CAM skills and anatomical knowledge gained from courses such as Anatomy & Physiology and Forensic Anthropology.
 ### Gallery
 <p align="center">
-  <img src="/assets/img/depressorseptinasi.png" alt="Craniofacial muscle mockup" width="250">
-    <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="280">
-  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="240">
-  <img src="/assets/img/depressorseptinasifinal.jpg" alt="Craniofacial muscle stencil printed (2) and used" width="280">
+  <img src="/assets/img/depressorseptinasi.png" alt="Craniofacial muscle mockup" width="220">
+    <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="260">
+  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="220">
+  <img src="/assets/img/depressorseptinasifinal.jpg" alt="Craniofacial muscle stencil printed (2) and used" width="260">
 </p>
 *Depressor Septi Nasi* muscle stencil
 
 <p align="center">
-  <img src="/assets/img/transversenasalisCADline.JPG" alt="Craniofacial muscle stencil CAD with image" width="190">
-  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="180">
-  <img src="/assets/img/transverse nasalis.JPG" alt="Craniofacial muscle stencil CAD" width="120">
-  <img src="/assets/img/transversenasalisprint.jpg" alt="Craniofacial muscle stencil printed" width="280">
+  <img src="/assets/img/transversenasalisCADline.JPG" alt="Craniofacial muscle stencil CAD with image" width="160">
+  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="150">
+  <img src="/assets/img/transverse nasalis.JPG" alt="Craniofacial muscle stencil CAD" width="95">
+  <img src="/assets/img/transversenasalisprint.jpg" alt="Craniofacial muscle stencil printed" width="260">
 </p>
 *Transverse Nasalis* muscle stencil: modelled on top of an image of the muscle from a cadaver lab
 

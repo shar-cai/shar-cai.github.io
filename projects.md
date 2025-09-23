@@ -97,18 +97,18 @@ As part of my extracurricular involvement with *Medical Makers*, a non-profit he
 - Applied CAD/CAM skills and anatomical knowledge gained from courses such as Anatomy & Physiology and Forensic Anthropology.
 ### Gallery
 <p align="center">
-  <img src="/assets/img/depressorseptinasi.png" alt="Craniofacial muscle mockup" width="300">
-  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="320">
-  <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="320">
-  <img src="/assets/img/depressorseptinasifinal.jpg" alt="Craniofacial muscle stencil printed (2) and used" width="320">
+  <img src="/assets/img/depressorseptinasi.png" alt="Craniofacial muscle mockup" width="280">
+  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="300">
+  <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="300">
+  <img src="/assets/img/depressorseptinasifinal.jpg" alt="Craniofacial muscle stencil printed (2) and used" width="300">
 </p>
 *Depressor Septi Nasi* muscle stencil
 
 <p align="center">
-  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="320">
-  <img src="/assets/img/transversenasalisCADline.JPG" alt="Craniofacial muscle stencil CAD with image" width="320">
-  <img src="/assets/img/transverse nasalis.jpg" alt="Craniofacial muscle stencil CAD" width="320">
-  <img src="/assets/img/transversenasalisprint.jpg" alt="Craniofacial muscle stencil printed" width="320">
+  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="220">
+  <img src="/assets/img/transversenasalisCADline.JPG" alt="Craniofacial muscle stencil CAD with image" width="220">
+  <img src="/assets/img/transverse nasalis.JPG" alt="Craniofacial muscle stencil CAD" width="220">
+  <img src="/assets/img/transversenasalisprint.jpg" alt="Craniofacial muscle stencil printed" width="300">
 </p>
 *Transverse Nasalis* muscle stencil
 

@@ -8,7 +8,7 @@ Below are a few projects I’ve worked on. :)
 - [Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery](/projects/#capstone)
 - [Interview Buddy](/projects/#interview-buddy)
 - [Craniofacial Muscle Stencil CAD](/projects/#craniofacial)
-- [WIP Mastermordle Word Game](/projects/#mastermordle)
+- [Mastermordle Word Game (WIP)](/projects/#mastermordle)
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
 > Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
@@ -98,19 +98,19 @@ As part of my extracurricular involvement with *Medical Makers*, a non-profit he
 ### Gallery
 <p align="center">
   <img src="/assets/img/depressorseptinasi.png" alt="Craniofacial muscle mockup" width="280">
-  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="300">
-  <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="300">
+    <img src="/assets/img/depressorseptinasiprint.jpg" alt="Craniofacial muscle stencil printed" width="300">
+  <img src="/assets/img/depressorseptinasiCAD.JPG" alt="Craniofacial muscle stencil CAD" width="260">
   <img src="/assets/img/depressorseptinasifinal.jpg" alt="Craniofacial muscle stencil printed (2) and used" width="300">
 </p>
 *Depressor Septi Nasi* muscle stencil
 
 <p align="center">
-  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="220">
   <img src="/assets/img/transversenasalisCADline.JPG" alt="Craniofacial muscle stencil CAD with image" width="220">
-  <img src="/assets/img/transverse nasalis.JPG" alt="Craniofacial muscle stencil CAD" width="220">
+  <img src="/assets/img/transversenasalisCAD.JPG" alt="Craniofacial muscle stencil CAD" width="200">
+  <img src="/assets/img/transverse nasalis.JPG" alt="Craniofacial muscle stencil CAD" width="120">
   <img src="/assets/img/transversenasalisprint.jpg" alt="Craniofacial muscle stencil printed" width="300">
 </p>
-*Transverse Nasalis* muscle stencil
+*Transverse Nasalis* muscle stencil: modelled on top of an image of the muscle from a cadaver lab
 
 --- <br>
 ## Mastermordle (Wordle x Mastermind) {#mastermordle}

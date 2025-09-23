@@ -8,6 +8,7 @@ Below are a few projects I’ve worked on. :)
 - [Capstone: Magnetically Actuated Soft Continuum Robot for ENT Surgery](/projects/#capstone)
 - [Interview Buddy](/projects/#interview-buddy)
 - [Craniofacial Muscle Stencil CAD](/projects/#craniofacial)
+- [WIP Mastermordle Word Game](/projects/#mastermordle)
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
 > Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
@@ -87,10 +88,22 @@ On the web app, you can generate categorized questions, record a video answer, a
 
 --- <br>
 ## Craniofacial Muscle Stencils for Anatomical Learning Model {#craniofacial}
-> CAD, 3D-printing, Fusion 360, Autodesk Inventor, Prusa i3
+> Biomedical CAD, 3D-printing, Fusion 360, Autodesk Inventor, Prusa i3
+
+As part of my extracurricular involvement with *Medical Makers*, a non-profit healthcare innovation group, I designed 3D-modelled craniofacial muscle stencils to support medical students in learning head and neck anatomy.
+- Modelled craniofacial muscle stencils in Fusion 360 and Autodesk Inventor based directly on images of real craniofacial muscles, ensuring anatomical accuracy.
+- Sized the models to scale, aligning dimensions with real anatomical structures for realistic learning applications.
+- Iterated designs for usability, ensuring the stencils could serve as effective study tools for craniofacial muscle placement and orientation.
+- Applied CAD/CAM skills and anatomical knowledge gained from courses such as Anatomy & Physiology and Forensic Anthropology.
+### Gallery
+<p align="center">
+  <img src="/assets/img/buddydeck.jpg" alt="Interview Buddy webpage Interview Deck" width="300">
+  <img src="/assets/img/buddyrecord.jpg" alt="Interview Buddy webpage Recording screen" width="320">
+  <img src="/assets/img/buddyresult.jpg" alt="Interview Buddy webpage Scored report" width="330">
+</p>
 
 --- <br>
-## Mastermordle (Wordle x Mastermind) 
+## Mastermordle (Wordle x Mastermind) {#mastermordle}
 > Node.js, TypeScript, REST API, HTML/CSS/JS, UI, webdev, games
 
 *Work in progress — gameplay and UI are actively evolving.*

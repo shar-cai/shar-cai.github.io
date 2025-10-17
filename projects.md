@@ -11,7 +11,7 @@ Below are a few projects I’ve worked on. :)
 - [Mastermordle Word Game (WIP)](/projects/#mastermordle)
 
 ## Capstone: Magnetically Actuated Soft-Continuum Robot (ENT) {#capstone}
-> Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, Arduino/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
+> Soft robotics, medical device development, mechatronics, embedded systems, real-time control, electromagnetics, Python, GUI, ESP32/microcontroller, stepper motor, materials engineering, serial comms, 3D printing, ISO standards
 
 ### Why build this?
 Ear, nose, and throat (ENT) surgery often means working inside exceptionally narrow, twisty passages where rigid tools can struggle to maneuver without damaging surrounding tissue. Using current ENT surgical tools often requires multiple personnel involvement and repeated tool swapping. And in some cases, surgeons must enlarge pathways by removing bone to reach a target or gain vision in an area. After speaking with sinus surgeons and researching current techniques, it was clear there was room for a gentler, more dexterous approach that could navigate tight anatomy without adding trauma.
